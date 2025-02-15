@@ -1,4 +1,4 @@
-# Hey, I'm Darío  <img src="https://github.com/jalfsan3108/readme.md/blob/main/pngegg%20(2).png" width="50" height="50" style="vertical-align: middle;" />  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=brightgreen)
+# Hey, I'm Darío  <img src="https://github.com/jalfsan3108/readme.md/blob/main/pngegg%20(2).png" width="50" height="50" style="vertical-align: middle;" />  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=brightgreen)
 
 - 🎓 **Web Development Student**  
 - 🌱 **Junior Programmer** with a passion for **entrepreneurship** and **technology development**  
