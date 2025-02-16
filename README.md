@@ -17,9 +17,17 @@
 
 [**My Portfolio Web**](https://github.com/jalfsan3108/sql-project) - A project where I'm learning how to develop a personal website.  
 [**My Java Projects**](https://github.com/jalfsan3108/java-refactor-project) - Code where I implement refactoring techniques in Java.  
+
+
+---
+
+
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnd3ZXZ0d2l2amhsN2x5YjI4Z3JmY2w0ZWYwc3RjNHo3djZvaHcxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hthTWax5yFG0s95Cm2/giphy.gif" width ="25"><b> Lenguajes de marcas de 1º DAW
+
 [**My LLMM Repository**](https://github.com/jalfsan3108/Lenguajes-de-marcas) - Exercises of Markup Languages ​​and Information Management Systems Blocks.
 
 ---
+
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
