@@ -15,29 +15,30 @@
 - 📫 Contact me at: [jalfsan3108@g.educaand.es](mailto:jalfsan3108@g.educaand.es)
 - 🏆 **Relentless** like the Dark Knight, always pushing beyond limits
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
----
+
 
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Featured Repositories
-
+---
 [**My Portfolio Web**](https://github.com/jalfsan3108/sql-project) - A project where I'm learning how to develop a personal website.  
 [**My Java Projects**](https://github.com/jalfsan3108/java-refactor-project) - Code where I implement refactoring techniques in Java.  
 
 
----
+
 
 
 ### <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/verified.gif?raw=true" width ="25"><b> Lenguajes de marcas de 1º DAW
-
+---
 [**My LLMM Repository**](https://github.com/jalfsan3108/Lenguajes-de-marcas) - Exercises of Markup Languages ​​and Information Management Systems Blocks.
 
----
+
 
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ### 💻 Tools & Technologies
+---
 <p align="left">
   
   ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=flat&logo=java&logoColor=white) 
