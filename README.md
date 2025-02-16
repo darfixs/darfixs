@@ -1,5 +1,5 @@
-## <b>       ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   **_Welcome to Darío Batcave !_**   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=yellow)
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxpOXN6MXd5ZG0zdW0xNmIyaDB0bnhyMGU0MHc0YnRmOTltaXc4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohzdHeNxQLQFwugX6/giphy.gif" width ="55">
+##<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxpOXN6MXd5ZG0zdW0xNmIyaDB0bnhyMGU0MHc0YnRmOTltaXc4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohzdHeNxQLQFwugX6/giphy.gif" width ="55"> <b>       ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   **_Welcome to Darío Batcave !_**   ㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=yellow)
+
  <p align="middle">
 </p>
 <picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t5bXhkZGFjc2s1c3VkNWw5aGQ3dDJ0ZmM3cnZuZzZ5MXR4Mmt1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxOuBD9eW1M8DFk3cP/giphy.gif" width = 350px></picture>
