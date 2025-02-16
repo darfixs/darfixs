@@ -52,9 +52,12 @@
   ![Proxmox](https://img.shields.io/badge/Proxmox-%230e2b5a.svg?style=flat&logo=proxmox&logoColor=white)
 </p>
 
+
 <p align="center">
   
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxpOXN6MXd5ZG0zdW0xNmIyaDB0bnhyMGU0MHc0YnRmOTltaXc4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohzdHeNxQLQFwugX6/giphy.gif" width ="25"><b> ***Batman may fight in the shadows, but I fight with tech in the dark!***
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxpOXN6MXd5ZG0zdW0xNmIyaDB0bnhyMGU0MHc0YnRmOTltaXc4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohzdHeNxQLQFwugX6/giphy.gif" width ="25"><b>
+[![Email Me](https://img.shields.io/badge/Email-Bat_Signal-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darioalfarosantos@gmail.com)
+
 </p>
 
 <p align="center">
