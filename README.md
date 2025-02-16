@@ -13,17 +13,7 @@
 
   
 ---
-<br>
 
-
-
-
-<img align="right" alt="GIF" height="170px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQxMjI3dHVjdDFoenR5ZmkyYTU0YWRsbnI4dmVzcnVtdTB0dnl5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1j8nLdOoJK2ItY90GC/giphy.gif" />
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/xxgarfixx)
-
----
 
 
 ### 🚀 Featured Repositories
