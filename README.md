@@ -1,3 +1,23 @@
+## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ <p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+</p>
+
+- 🔭 I’m currently working on my side projects
+- 🌱 I’m currently learning software architecture
+- 👯 I’m looking to collaborate on your open source projects
+- 💬 Ask me about C#
+- 📫 How to reach me: Contact part
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I never thought I would become a .net programmer!
+
+<br>
+
+
+
 ## <img src="https://github.com/jalfsan3108/readme.md/blob/main/pngegg%20(2).png" width="50" height="50" style="vertical-align: middle;" />   Hey, I'm Darío   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=brightgreen)
 
 - 🎓 **Web Development Student**  
