@@ -1,5 +1,5 @@
 ## Hey, I'm Darío   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=brightgreen)
-<picture> <img align="right" src="https://github.com/jalfsan3108/readme.md/blob/main/pngegg%20(2).png" width = 200px></picture>
+<picture> <img align="right" src="https://github.com/jalfsan3108/readme.md/blob/main/pngegg%20(2).png" width = 210px></picture>
  <p align="left">
 </p>
 
