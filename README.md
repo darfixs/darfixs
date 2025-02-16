@@ -58,8 +58,10 @@
 
 
 <p align="center">
-<br>▀▄▀▄▀▄     ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ʜᴇʀᴇ     ▄▀▄▀▄▀
-<img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/flecha.gif" width=20px></br>
+  ▀▄▀▄▀▄     ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ʜᴇʀᴇ     ▄▀▄▀▄▀
+  <br>
+  <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/flecha.gif" width="20px">
+  <br>
   <a href="mailto:darioalfarosantos@gmail.com">
     <img src="https://img.shields.io/badge/%F0%9F%9A%A8%20Send%20Bat--Signal-00BFFF?style=for-the-badge&logo=batman&logoColor=FFD700" alt="Send Bat-Signal">
   </a>
