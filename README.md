@@ -1,5 +1,5 @@
 ## Hey, I'm Darío   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=brightgreen)
-<picture> <img align="right" src="https://github.com/jalfsan3108/readme.md/blob/main/pngegg%20(2).png" width = 210px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t5bXhkZGFjc2s1c3VkNWw5aGQ3dDJ0ZmM3cnZuZzZ5MXR4Mmt1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxOuBD9eW1M8DFk3cP/giphy.gif" width = 210px></picture>
  <p align="left">
 </p>
 
@@ -16,7 +16,7 @@
 
 
 
-### 🚀 Featured Repositories
+### <img src="https://github.com/jalfsan3108/readme.md/blob/main/pngegg%20(2).png" width ="25"><b> Featured Repositories
 
 [**My Portfolio Web**](https://github.com/jalfsan3108/sql-project) - A project where I'm learning how to develop a personal website.  
 [**My Java Projects**](https://github.com/jalfsan3108/java-refactor-project) - Code where I implement refactoring techniques in Java.  
@@ -25,7 +25,6 @@
 
 
 ---
-
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
@@ -51,7 +50,7 @@
 
 <p align="center">
   
-***Batman may fight in the shadows, but I fight with tech in the dark!***
+ <img src="https://github.com/jalfsan3108/readme.md/blob/main/pngegg%20(2).png" width ="25"><b> ***Batman may fight in the shadows, but I fight with tech in the dark!***
 </p>
 
 <p align="center">
