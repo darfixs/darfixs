@@ -12,6 +12,7 @@
 - 🌱 **Junior Programmer** growing
 - 💻 Learning **Java**, **MySQL** and **HTML**  
 - 📚 Exploring tools like  **Microsoft SharePoint** and **Power BI**
+- 🏆 Improving skills every day, no time to rest
 - 📫 Contact me at: [jalfsan3108@g.educaand.es](mailto:jalfsan3108@g.educaand.es)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ---
