@@ -22,21 +22,23 @@
 ---
 [**My Portfolio Web**](https://github.com/jalfsan3108/sql-project) - A project where I'm learning how to develop a personal website.  
 [**My Java Projects**](https://github.com/jalfsan3108/java-refactor-project) - Code where I implement refactoring techniques in Java.  
-
-
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 
 
 ### <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/verified.gif?raw=true" width ="25"><b> Lenguajes de marcas de 1º DAW
 ---
 [**My LLMM Repository**](https://github.com/jalfsan3108/Lenguajes-de-marcas) - Exercises of Markup Languages ​​and Information Management Systems Blocks.
-
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+
+
 
 ### 💻 Tools & Technologies
 ---
@@ -53,10 +55,8 @@
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-%2332a4d7.svg?style=flat&logo=virtualbox&logoColor=white) 
   ![Proxmox](https://img.shields.io/badge/Proxmox-%230e2b5a.svg?style=flat&logo=proxmox&logoColor=white)
 </p>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
-
-<p align="center"> 
- 
 
 
 <p align="center">
