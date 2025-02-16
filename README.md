@@ -55,8 +55,8 @@
 
 <p align="center">
   
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxpOXN6MXd5ZG0zdW0xNmIyaDB0bnhyMGU0MHc0YnRmOTltaXc4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohzdHeNxQLQFwugX6/giphy.gif" width ="25"><b>
-[![Email Me](https://img.shields.io/badge/Email-Bat_Signal-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darioalfarosantos@gmail.com)### 🦇 **Send a Bat-Signal!**  
+ 
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxpOXN6MXd5ZG0zdW0xNmIyaDB0bnhyMGU0MHc0YnRmOTltaXc4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohzdHeNxQLQFwugX6/giphy.gif" width ="25"><b> **Send a Bat-Signal!**  
 [![Contact Me](https://img.shields.io/badge/Send%20a%20Bat--Signal-FF4500?style=for-the-badge&logo=batman&logoColor=FFD700)](mailto:darioalfarosantos@gmail.com)
 
 
