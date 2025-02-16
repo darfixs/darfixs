@@ -1,10 +1,10 @@
-## Hey, I'm Darío   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=brightgreen)
+## <h2> Hey, I'm Darío   ㅤ</h2>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=brightgreen)
 <picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t5bXhkZGFjc2s1c3VkNWw5aGQ3dDJ0ZmM3cnZuZzZ5MXR4Mmt1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxOuBD9eW1M8DFk3cP/giphy.gif" width = 300px></picture>
  <p align="right">
 </p>
 
 
-<h6>
+<h5>
  
 - 🎓 **Web Development Student**  
 - 🌱 **Junior Programmer** with a passion for **technology development**  
@@ -12,7 +12,7 @@
 - 📚 Exploring creative tools like  **Microsoft SharePoint** and **Power BI**
 - 📫 Contact me at: [jalfsan3108@g.educaand.es](mailto:jalfsan3108@g.educaand.es)
 
-</h6>
+</h5>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 
