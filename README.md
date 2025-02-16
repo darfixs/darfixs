@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="mailto:darioalfarosantos@gmail.com">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%A8%20Send%20Bat--Signal-FF4500?style=for-the-badge&logo=batman&logoColor=FFD700" alt="Send Bat-Signal">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%A8%20Send%20Bat--Signal-00BFFF?style=for-the-badge&logo=batman&logoColor=FFD700" alt="Send Bat-Signal">
   </a>
 </p>
 
