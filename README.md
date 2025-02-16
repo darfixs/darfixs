@@ -3,6 +3,8 @@
  <p align="left">
 </p>
 
+---
+
 - 🎓 **Web Development Student**  
 - 🌱 **Junior Programmer** with a passion for **technology development**  
 - 💻 Learning **Java**, **MySQL**, and web technologies  
