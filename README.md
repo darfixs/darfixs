@@ -13,10 +13,7 @@
 
   
 ---
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<p align="center">
+## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t5bXhkZGFjc2s1c3VkNWw5aGQ3dDJ0ZmM3cnZuZzZ5MXR4Mmt1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxOuBD9eW1M8DFk3cP/giphy.gif" width =40px></picture> **About me**
 
 ### 🚀 Featured Repositories
 [**My Portfolio Web**](https://github.com/jalfsan3108/sql-project) - A project where I'm learning how to develop a personal website.  
@@ -26,7 +23,7 @@
 ---
 
 
-### 📊 GitHub Stats
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ### 💻 Tools & Technologies
