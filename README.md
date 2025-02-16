@@ -55,18 +55,14 @@
 
 <p align="center">
   
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxpOXN6MXd5ZG0zdW0xNmIyaDB0bnhyMGU0MHc0YnRmOTltaXc4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohzdHeNxQLQFwugX6/giphy.gif" width ="45">  
-## **🚀 Send a Bat-Signal!**  
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxpOXN6MXd5ZG0zdW0xNmIyaDB0bnhyMGU0MHc0YnRmOTltaXc4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohzdHeNxQLQFwugX6/giphy.gif" width="50"> **Send a Bat-Signal!**  
 
 <p align="center">
   <a href="mailto:darioalfarosantos@gmail.com">
-    <img src="https://user-images.githubusercontent.com/674621/71187819-74c7ea80-2242-11ea-8b9a-cad0dff8fd92.gif" width="200">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%A8%20Send%20Bat--Signal-FF4500?style=for-the-badge&logo=batman&logoColor=FFD700" alt="Send Bat-Signal">
   </a>
 </p>
 
-
-
-</p>
 
 <p align="center">
   
