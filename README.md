@@ -6,7 +6,7 @@
 - 📚 Exploring creative tools like  **Microsoft SharePoint** and **Power BI**
 - 📫 Contact me at: [jalfsan3108@g.educaand.es](mailto:jalfsan3108@g.educaand.es)
 ---
-<img align="right" alt="GIF" height="170px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5iOWRybnA5M3doMTVpcDk4d2xsbThuOWJub3Rmc3UzaHpidnkxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4eGUxJc4lplh6/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t5bXhkZGFjc2s1c3VkNWw5aGQ3dDJ0ZmM3cnZuZzZ5MXR4Mmt1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxOuBD9eW1M8DFk3cP/giphy.gif" />
 
 ### Spotify Playing 🎧
 
