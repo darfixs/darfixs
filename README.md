@@ -19,6 +19,8 @@
 [**My Portfolio Web**](https://github.com/jalfsan3108/sql-project) - A project where I'm learning how to develop a personal website.  
 [**My Java Projects**](https://github.com/jalfsan3108/java-refactor-project) - Code where I implement refactoring techniques in Java.  
 [**My LLMM Repository**](https://github.com/jalfsan3108/Lenguajes-de-marcas) - Exercises of Markup Languages ​​and Information Management Systems Blocks.
+---
+
 
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
