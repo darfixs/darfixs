@@ -1,6 +1,6 @@
 ## Hey, I'm Darío   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=brightgreen)
 
-<picture> <img align="right" src="https://github.com/jalfsan3108/readme.md/blob/main/pngegg%20(2).png" width = 400px></picture>
+<picture> <img align="right" src="https://github.com/jalfsan3108/readme.md/blob/main/pngegg%20(2).png" width = 200px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
@@ -19,7 +19,7 @@
 
 
 
-<img align="left" alt="GIF" height="170px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQxMjI3dHVjdDFoenR5ZmkyYTU0YWRsbnI4dmVzcnVtdTB0dnl5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1j8nLdOoJK2ItY90GC/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQxMjI3dHVjdDFoenR5ZmkyYTU0YWRsbnI4dmVzcnVtdTB0dnl5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1j8nLdOoJK2ItY90GC/giphy.gif" />
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/xxgarfixx)
