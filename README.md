@@ -6,18 +6,6 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
-- 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
-- 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
-
-<br>
-
-
-
 ## <img src="https://github.com/jalfsan3108/readme.md/blob/main/pngegg%20(2).png" width="50" height="50" style="vertical-align: middle;" />   Hey, I'm Darío   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=brightgreen)
 
 - 🎓 **Web Development Student**  
@@ -26,6 +14,11 @@
 - 📚 Exploring creative tools like  **Microsoft SharePoint** and **Power BI**
 - 📫 Contact me at: [jalfsan3108@g.educaand.es](mailto:jalfsan3108@g.educaand.es)
 ---
+<br>
+
+
+
+
 <img align="right" alt="GIF" height="170px" src="" />
 
 ### Spotify Playing 🎧
