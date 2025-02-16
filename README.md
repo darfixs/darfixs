@@ -22,7 +22,7 @@
 ---
 
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnd3ZXZ0d2l2amhsN2x5YjI4Z3JmY2w0ZWYwc3RjNHo3djZvaHcxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hthTWax5yFG0s95Cm2/giphy.gif" width ="25"><b> Lenguajes de marcas de 1º DAW
+### <img src="" width ="25"><b> Lenguajes de marcas de 1º DAW
 
 [**My LLMM Repository**](https://github.com/jalfsan3108/Lenguajes-de-marcas) - Exercises of Markup Languages ​​and Information Management Systems Blocks.
 
