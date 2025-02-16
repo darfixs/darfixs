@@ -6,18 +6,7 @@
 - 📚 Exploring creative tools like  **Microsoft SharePoint** and **Power BI**
 - 📫 Contact me at: [jalfsan3108@g.educaand.es](mailto:jalfsan3108@g.educaand.es)
 ---
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-## I'm a Computer Science and Engineering Student  
-
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5iOWRybnA5M3doMTVpcDk4d2xsbThuOWJub3Rmc3UzaHpidnkxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4eGUxJc4lplh6/giphy.gif" />
 
 ### Spotify Playing 🎧
 
