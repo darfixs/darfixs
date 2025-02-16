@@ -1,5 +1,3 @@
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
-
 <picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t5bXhkZGFjc2s1c3VkNWw5aGQ3dDJ0ZmM3cnZuZzZ5MXR4Mmt1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxOuBD9eW1M8DFk3cP/giphy.gif" width = 400px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
