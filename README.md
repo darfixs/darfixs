@@ -14,6 +14,7 @@
 
 ---
 <img align="left" alt="GIF" height="170px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQxMjI3dHVjdDFoenR5ZmkyYTU0YWRsbnI4dmVzcnVtdTB0dnl5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1j8nLdOoJK2ItY90GC/giphy.gif" />
+
 ### 🚀 Featured Repositories
 [**My Portfolio Web**](https://github.com/jalfsan3108/sql-project) - A project where I'm learning how to develop a personal website.  
 [**My Java Projects**](https://github.com/jalfsan3108/java-refactor-project) - Code where I implement refactoring techniques in Java.  
