@@ -32,14 +32,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=2f80ed&icon_color=586069&text_color=434d58&bg_color=fffefe"
+    srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000"
     media="(prefers-color-scheme: radical)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=2f80ed&icon_color=586069&text_color=434d58&bg_color=fffefe"
+    srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=2f80ed&icon_color=586069&text_color=434d58&bg_color=fffefe" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000" />
 </picture>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
