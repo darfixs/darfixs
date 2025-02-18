@@ -28,8 +28,8 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 <div style="display: flex; align-items: center;">
-  <div>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlobGcxdmJsOWRldm0xcDk4anNiOHRoMTU5ZXV2cHZoMzFyNjlqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igFOsVPw3iv2hEaPUn/giphy.gif" alt="Batman GIF" style="height: 195px;" />
+  <div style="flex-shrink: 0;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlobGcxdmJsOWRldm0xcDk4anNiOHRoMTU5ZXV2cHZoMzFyNjlqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igFOsVPw3iv2hEaPUn/giphy.gif" alt="Batman GIF" style="height: 165px;" />
   </div>
   <div style="margin-left: auto;">
     <picture>
