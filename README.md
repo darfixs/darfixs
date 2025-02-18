@@ -1,4 +1,4 @@
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxpOXN6MXd5ZG0zdW0xNmIyaDB0bnhyMGU0MHc0YnRmOTltaXc4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohzdHeNxQLQFwugX6/giphy.gif" width ="55"> **_Welcome to the Batcave, I'm Darío!_**   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=E25822)
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxpOXN6MXd5ZG0zdW0xNmIyaDB0bnhyMGU0MHc0YnRmOTltaXc4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohzdHeNxQLQFwugX6/giphy.gif" width ="75"> **_Welcome to the Batcave, I'm Darío!_**   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=jalfsan3108&color=E25822)
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Featured Repositories
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"><b> Featured Repositories
 ---
 
 * [**My Portfolio Web**](https://github.com/jalfsan3108/sql-project) - A project where I'm learning how to develop a personal website.  
