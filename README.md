@@ -29,9 +29,9 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex-shrink: 0;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlobGcxdmJsOWRldm0xcDk4anNiOHRoMTU5ZXV2cHZoMzFyNjlqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igFOsVPw3iv2hEaPUn/giphy.gif" alt="Batman GIF" style="height: 165px;" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlobGcxdmJsOWRldm0xcDk4anNiOHRoMTU5ZXV2cHZoMzFyNjlqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igFOsVPw3iv2hEaPUn/giphy.gif" alt="Batman GIF" style="height: 200px;" />
   </div>
-  <div style="margin-left: auto;">
+  <div style="margin-left: 20px;"> 
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000"
@@ -45,7 +45,6 @@
     </picture>
   </div>
 </div>
-
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ### 💻 Tools & Technologies
 
