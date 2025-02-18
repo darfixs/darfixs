@@ -29,7 +29,7 @@
   
 <div style="display: flex; align-items: center;">
   <picture>
-    <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/22.gif" width="210px" style="margin-center: 20px;">
+    <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/22.gif" width="300px" style="margin-center: 20px;">
   </picture>
   <img src="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000" alt="GitHub Stats" style="height: 100px;">
 </div>
