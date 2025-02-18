@@ -31,7 +31,8 @@
   <picture>ㅤ
     <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/22.gif" width="320px">
   </picture>ㅤㅤ
-  <img src="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000" alt="GitHub Stats" style="height: 190px;">
+  <img src="https://img.shields.io/badge/SEND%20BAT--SIGNAL-%23FF9E00?style=for-the-badge&logo=batman&logoColor=000000&labelColor=FF9E00&border=2px%20solid%20FF5500&font-weight=900" alt="Send Bat-Signal" width="150px">
+
 </div>
 
 <br>
