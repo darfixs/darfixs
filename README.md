@@ -27,18 +27,12 @@
 <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/verified.gif?raw=true" width ="25"><b> 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
   
-<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGwyOTJuZ21veDV2dHF6dWQ1ZGxpdHYwYXQ0aTZyd2lzcWEzbDlqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1j8nLdOoJK2ItY90GC/giphy.gif" width = 350px></picture>
- <p align="left">
-</p><picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000"
-      media="(prefers-color-scheme: radical)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000" alt="GitHub Stats" style="height: 100px />
+<div style="display: flex; align-items: center;">
+  <picture>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGwyOTJuZ21veDV2dHF6dWQ1ZGxpdHYwYXQ0aTZyd2lzcWEzbDlqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1j8nLdOoJK2ItY90GC/giphy.gif" width="350px" style="margin-right: 20px;">
+  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000" alt="GitHub Stats" style="height: 200px;">
+</div>
 
 
 
