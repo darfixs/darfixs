@@ -38,8 +38,8 @@
 
 
 
-<p align="center">
-  
+  <p align="center">
+   
   ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=flat&logo=java&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -50,9 +50,9 @@
   ![Linux](https://img.shields.io/badge/Linux-%2300f.svg?style=flat&logo=linux&logoColor=white) 
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-%2332a4d7.svg?style=flat&logo=virtualbox&logoColor=white) 
   ![Proxmox](https://img.shields.io/badge/Proxmox-%230e2b5a.svg?style=flat&logo=proxmox&logoColor=white)
-</p>
+
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<p align="center">
+
   ▀▄▀▄▀▄     ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ʜᴇʀᴇ     ▄▀▄▀▄▀
   <br>
   <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/flecha.gif" width="20px">
