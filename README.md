@@ -36,11 +36,9 @@
 
 
 
-### 💻 Tools & Technologies
 
----
 
-<p align="left">
+<p align="center">
   
   ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=flat&logo=java&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
