@@ -27,22 +27,7 @@
 <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/verified.gif?raw=true" width ="25"><b> 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlobGcxdmJsOWRldm0xcDk4anNiOHRoMTU5ZXV2cHZoMzFyNjlqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igFOsVPw3iv2hEaPUn/giphy.gif" alt="Batman GIF" style="height: 100px; margin-right: 0;" />
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000"
-      media="(prefers-color-scheme: radical)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000" alt="GitHub Stats" style="height: 100px />
-  </picture>
-</div>
-     
+
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ### 💻 Tools & Technologies
 
