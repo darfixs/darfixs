@@ -61,7 +61,7 @@
   <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/flecha.gif" width="20px">
   <br>
   <a href="mailto:darioalfarosantos@gmail.com">
-    <img src="https://img.shields.io/badge/SEND%20BAT--SIGNAL-%23FFD700?style=for-the-badge&logo=batman&logoColor=000000&labelColor=FFD700" alt="Send Bat-Signal" width="150px">
+    <img src="https://img.shields.io/badge/SEND%20BAT--SIGNAL-%23FFD700?style=for-the-badge&logo=batman&logoColor=000000&labelColor=FFD700&font-weight=bold" alt="Send Bat-Signal" width="200px">
   </a>
 </p>
 
