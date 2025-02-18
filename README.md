@@ -37,12 +37,15 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ### 💻 Tools & Technologies
+
 ---
+
 <p align="left">
   
   ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=flat&logo=java&logoColor=white) 
