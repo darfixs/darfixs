@@ -21,9 +21,10 @@
 ### <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/verified.gif?raw=true" width ="25"><b> Featured Repositories
 ---
 
-* [**My Portfolio Web**](https://github.com/jalfsan3108/sql-project) - A project where I'm learning how to develop a personal website.  (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
+* [**Personal Portfolio Web**](https://github.com/jalfsan3108/sql-project) - A project where I'm learning how to develop a personal website.  (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
 * [**My Java Projects**](https://github.com/jalfsan3108/java-refactor-project) - Code where I implement in my java projects. (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
-* [**My LLMM Projects**](https://github.com/jalfsan3108/Lenguajes-de-marcas) - Exercises of Markup Languages ​​and Information Management Systems Blocks.
+* [**MySQL Queries & Databases**](https://github.com/jalfsan3108/BBDD) - Archives of ddbb things, also notes and exams completed. (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
+* [**Markdown Lenguage Exercises & Projects**](https://github.com/jalfsan3108/Lenguajes-de-marcas) - Exercises of Markup Languages ​​and Information Management Systems Blocks.
  
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
   
