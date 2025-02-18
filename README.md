@@ -52,12 +52,10 @@
   ![Proxmox](https://img.shields.io/badge/Proxmox-%230e2b5a.svg?style=for-the-badge&logo=proxmox&logoColor=white) 
   ![Microsoft SharePoint](https://img.shields.io/badge/Microsoft%20SharePoint-%23007BBD.svg?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white) 
   ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black) 
-
+  
 </p>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <p align="center">
- 
   ▀▄▀▄▀▄     ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ʜᴇʀᴇ     ▄▀▄▀▄▀
   <br>
   <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/flecha.gif" width="20px">
@@ -67,10 +65,9 @@
   </a>
 </p>
 
-
 <p align="center">
-  
   <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/pngegg%20(1).png"/>
 </p>
+
 
 
