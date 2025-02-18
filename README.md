@@ -2,7 +2,7 @@
 
 
 
-<picture> <img align="right" src="https://s1.ezgif.com/tmp/ezgif-1fb5ea9547f904.gif" width = 350px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpvNnB6c25ra3RmZDJuMm5xa3JsMjJvYzE3bXJ2aGFjcnpyMTQ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxOuBD9eW1M8DFk3cP/giphy.gif" width = 350px></picture>
  <p align="right">
 </p>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
