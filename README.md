@@ -34,9 +34,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000" alt="GitHub Stats" style="height: 180px;">
 </div>
 
-
-                                            
-
+<br>
+</br>
 
 
 <p align="center">
