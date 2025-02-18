@@ -31,7 +31,10 @@
   <picture>ㅤ
     <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/22.gif" width="320px">
   </picture>ㅤㅤ
-  <a href="https://camo.githubusercontent.com/a115ad3e4c2a9df088ab299cb00fd164eca6f81bf8ee11216080581c546af480/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a616c6673616e333130382673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666636330302669636f6e5f636f6c6f723d66666363303026746578745f636f6c6f723d6330633063302662675f636f6c6f723d303030303030"><img src="https://camo.githubusercontent.com/a115ad3e4c2a9df088ab299cb00fd164eca6f81bf8ee11216080581c546af480/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a616c6673616e333130382673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666636330302669636f6e5f636f6c6f723d66666363303026746578745f636f6c6f723d6330633063302662675f636f6c6f723d303030303030" alt="GitHub Stats" style="height: 190px; max-width: 100%;" data-canonical-src="https://github-readme-stats.vercel.app/api?username=jalfsan3108&amp;show_icons=true&amp;title_color=ffcc00&amp;icon_color=ffcc00&amp;text_color=c0c0c0&amp;bg_color=000000"></a>
+  <a href="https://github.com/jalfsan3108">
+    <img src="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&title_color=ffcc00&icon_color=ffcc00&text_color=c0c0c0&bg_color=000000" alt="GitHub Stats" style="height: 190px; max-width: 100%;">
+  </a>
+</p>
 
 </div>
 
