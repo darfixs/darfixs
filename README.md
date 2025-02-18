@@ -12,7 +12,7 @@
 - 🌱 **Junior Programmer** growing
 - 💻 Learning **Java**, **MySQL** and **HTML**  
 - 📚 Exploring tools like  **Microsoft SharePoint** and **Power BI**
-- 🏆 **Relentless** like the merko Knight, always pushing beyond limits
+- 🏆 **Relentless** like the radical Knight, always pushing beyond limits
 - 📫 Contact me at the bottom of this page
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
@@ -32,8 +32,8 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&theme=merko"
-    media="(prefers-color-scheme: merko)"
+    srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: radical)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jalfsan3108&show_icons=true"
