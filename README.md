@@ -38,22 +38,26 @@
 
 
 
-  <p align="center">
+<p align="center">
+  
+  ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+  ![SVG](https://img.shields.io/badge/SVG-%23000000.svg?style=for-the-badge&logo=svg&logoColor=white) 
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4B1.svg?style=for-the-badge&logo=canva&logoColor=white) 
+  ![Pixlr](https://img.shields.io/badge/Pixlr-%23000000.svg?style=for-the-badge&logo=pixlr&logoColor=white) 
+  ![Linux](https://img.shields.io/badge/Linux-%2300f.svg?style=for-the-badge&logo=linux&logoColor=white) 
+  ![VirtualBox](https://img.shields.io/badge/VirtualBox-%2332a4d7.svg?style=for-the-badge&logo=virtualbox&logoColor=white) 
+  ![Proxmox](https://img.shields.io/badge/Proxmox-%230e2b5a.svg?style=for-the-badge&logo=proxmox&logoColor=white) 
+  ![Microsoft SharePoint](https://img.shields.io/badge/Microsoft%20SharePoint-%23007BBD.svg?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white) 
+  ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black) 
 
-       ㅤㅤ ㅤㅤ ㅤㅤ
-  ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=flat&logo=java&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-  ![SVG](https://img.shields.io/badge/SVG-%23000000.svg?style=flat&logo=svg&logoColor=white) 
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4B1.svg?style=flat&logo=canva&logoColor=white) 
-  ![Pixlr](https://img.shields.io/badge/Pixlr-%23000000.svg?style=flat&logo=pixlr&logoColor=white) 
-  ![Linux](https://img.shields.io/badge/Linux-%2300f.svg?style=flat&logo=linux&logoColor=white) 
-  ![VirtualBox](https://img.shields.io/badge/VirtualBox-%2332a4d7.svg?style=flat&logo=virtualbox&logoColor=white) 
-  ![Proxmox](https://img.shields.io/badge/Proxmox-%230e2b5a.svg?style=flat&logo=proxmox&logoColor=white)
+</p>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
+<p align="center">
+ 
   ▀▄▀▄▀▄     ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ʜᴇʀᴇ     ▄▀▄▀▄▀
   <br>
   <img src="https://github.com/jalfsan3108/jalfsan3108/blob/main/flecha.gif" width="20px">
