@@ -23,7 +23,7 @@
 
 * [**Personal Portfolio Web**](https://github.com/jalfsan3108/sql-project) - A project where I'm learning how to develop a personal website.  (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
 * [**My Java Projects**](https://github.com/jalfsan3108/java-refactor-project) - Some usefull codes where I implement in my java projects. (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
-* [**MySQL Queries & Databases**](https://github.com/jalfsan3108/BBDD) - Archives of ddbb things, also notes and exams completed. (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
+* [**MySQL Queries & Databases**](https://github.com/jalfsan3108/BBDD) - Archives of ddbb things, also notes and exams completed.
 * [**Markdown Lenguage Exercises & Projects**](https://github.com/jalfsan3108/Lenguajes-de-marcas) - Exercises of Markup Languages ​​and Information Management Systems Blocks.
  
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
