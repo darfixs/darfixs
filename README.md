@@ -21,7 +21,7 @@
 ### <img src="https://github.com/darfixs/darfixs/blob/main/verified.gif?raw=true" width ="25"><b> Featured Repositories
 ---
 
-* [**Personal Portfolio Web**](https://github.com/darfixs/sql-project) - A project where I'm learning how to develop a personal website.  (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
+* [**Personal Portfolio Web**](https://github.com/darfixs/portfolio-web) - A project where I'm learning how to develop a personal website.  (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
 * [**My Java Projects**](https://github.com/darfixs/java-projects) - Some usefull codes where I implement in my java projects. (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
 * [**MySQL Queries & Databases**](https://github.com/darfixs/BBDD) - Archives of ddbb things, also notes and exams completed.
 * [**Markdown Lenguage Exercises & Projects**](https://github.com/darfixs/Lenguajes-de-marcas) - Exercises of Markup Languages ​​and Information Management Systems Blocks.
