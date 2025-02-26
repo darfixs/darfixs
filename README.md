@@ -18,7 +18,7 @@
 
 
 
-### <img src="https://github.com/darfixs/darfixs/blob/main/verified.gif?raw=true" width ="25"><b> Featured Repositories
+### <img src="https://github.com/darfixs/darfixs/blob/main/verified.gif?raw=true" width ="25"><b> My Featured Repositories
 ---
 
 * [**Personal Portfolio Web**](https://github.com/darfixs/portfolio-web) - A project where I'm learning how to develop a personal website.  (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
