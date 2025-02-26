@@ -24,7 +24,7 @@
 * [**Personal Portfolio Web**](https://github.com/darfixs/portfolio-web) - A project where I'm learning how to develop a personal website.  (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
 * [**My Java Projects**](https://github.com/darfixs/java-projects) - Some usefull codes where I implement in my java projects. (ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ)
 * [**MySQL Queries & Databases**](https://github.com/darfixs/BBDD) - Archives of ddbb things, also notes and exams completed.
-* ⚠️[**Markdown Lenguage Exercises & Projects**](https://github.com/darfixs/Lenguajes-de-marcas)⚠️ - Exercises of Markup Languages ​​and Information Management Systems Blocks.
+* [**Markdown Lenguage Exercises & Projects**](https://github.com/darfixs/Lenguajes-de-marcas) - Exercises of Markup Languages ​​and Information Management Systems Blocks.
 * [**Google Cybersecurity Certificate Notes**](https://github.com/darfixs/Google-Cybersecurity-Certificate) - A collection of notes, resources, and summaries to help you prepare for the Google Cybersecurity Professional Certificate.
  
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
