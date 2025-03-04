@@ -11,7 +11,7 @@
 - 🎓 **Web Development Student**
 - 🌱 **Junior Programmer** growing
 - 💻 Learning **Java**, **MySQL** and **HTML**  
-- 📚 Exploring tools like  **Microsoft SharePoint** and **Power BI**
+- 📚 Exploring tools like  **Microsoft SPO** and **Power Platform**
 - 🏆 **Relentless** like the radical Knight, always pushing beyond limits
 - 📫 Contact me at the bottom of this page
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
