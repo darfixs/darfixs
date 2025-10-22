@@ -12,7 +12,7 @@
 - 🌱 **Junior Programmer** growing
 - 💻 Learning **Java**, **MySQL** and **PHP**  
 - 📚 Exploring tools like  **Microsoft SPO** and **Power Platform**
-- 🏆 **Relentless** like the Dark Knight, always pushing beyond limits
+- 🏆 **Relentless** likethe Dark Knight, always pushing beyond limits
 - 📫 Contact me at the bottom of this page
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
