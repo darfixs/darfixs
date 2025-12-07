@@ -10,7 +10,7 @@
 
 - 🎓 **Web Development Student**
 - 🌱 **Junior Programmer** growing
-- 💻 Learning **Java**, **MySQL** and **PHP**  
+- 💻 Visit my Portfolio Web -> darfixs.com
 - 📚 Exploring tools like  **Microsoft SPO** and **Power Platform**
 - 🏆 **Relentless** like the Dark Knight, always pushing beyond limits
 - 📫 Contact me at the bottom of this page
